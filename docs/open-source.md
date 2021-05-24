@@ -6,6 +6,7 @@
  - [Pandas][Pandas]
  - [NumPy][NumPy]
  - [pyABF][pyABF] - Package to open Axon Binary Format (ABF) files
+ - [heka_reader][heka_readerheka_reader] - Python file to read Heka Data files
  - [XlsxWriter][XlsxWriter]
  -
 #### Desktop Application
@@ -24,6 +25,7 @@
 [Pandas]: https://pandas.pydata.org/
 [NumPy]: https://www.numpy.org/
 [pyABF]: https://github.com/swharden/pyABF
+[heka_reader]: https://github.com/campagnola/heka_reader
 [TkInter]: https://docs.python.org/3/library/tkinter.html
 [PyQt]: https://riverbankcomputing.com/software/pyqt/intro
 [pyqtgraph]: http://www.pyqtgraph.org/
